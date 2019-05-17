@@ -60,7 +60,6 @@
 104.167.101.177,Main Entrance,Waterloo,CA,,KW Datacenter (KD)
 104.167.102.164,Main Entrance,Waterloo,CA,,KW Datacenter (KD)
 104.167.103.8,Main Entrance,Waterloo,CA,,KW Datacenter (KD)
-104.186.12.32,,,,,AT&T Corp. (AC-3280)
 104.131.245.55,10th Floor,New York,US,,DigitalOcean, LLC (DO-13)
 104.168.167.192,12101 Tukwila International Blvd, 3rd Floor, Suite 320,Seattle,US,,Hostwinds LLC. (HL-29)
 104.192.102.156,#2044,Seattle,US,,IonSwitch, LLC (IL-446)
@@ -153,7 +152,6 @@
 107.196.20.143,Attn,Redmond,US,,AT&T Corp. (AC-3280)
 107.191.46.4,20/22, Rue Des Gardinoux,AUBERVILLIERS,FR,,Vultr Holdings, LLC (VHL-91)
 107.191.53.201,6-5-2,Heiwajima,JP,,Vultr Holdings, LLC (VHL-45)
-107.217.72.143,,,,,AT&T Corp. (AC-3280)
 108.14.77.139,22001 Loudoun County Pkwy,Ashburn,US,,MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
 107.223.199.120,Attn,Redmond,US,,AT&T Corp. (AC-3280)
 108.161.133.189,4008 Sarah Ct,Collegeville,US,,TekTonic (MPP-29)
@@ -226,7 +224,7 @@
 109.236.90.209,The Netherlands,,NL,+31174712117,
 109.238.11.6,Fr,,FR,+33184010250,
 109.238.2.40,Fr,,FR,+33184010250,
-109.238.92.84,PioneerNet LLC building 4, Ilíinskoe shosse St. Krasnogorsk 143405,,RU,+79164372334,
+109.238.92.84,PioneerNet LLC building 4, IlÔøΩinskoe shosse St. Krasnogorsk 143405,,RU,+79164372334,
 109.239.49.192,DE,,DE,+49 89 55266 0,
 109.239.79.181,Czech Republic,,CZ,+420 211 143 000,
 109.24.157.46,France,,FR,+33 1 70 18 52 00,
@@ -391,7 +389,6 @@
 130.25.111.110,ITALY,Amsterdam,IT,,RIPE Network Coordination Centre (RIPE)
 132.248.59.72,04510 - MEXICO, COYOACAN - CX,Montevideo,MX,+52 55 56228884 [],Latin American and Caribbean IP address Regional Registry (LACNIC)
 132.252.186.185,Germany,Amsterdam,DE,+49 201 183 2888,RIPE Network Coordination Centre (RIPE)
-133.242.146.78,,,,,
 130.255.190.187,Germany,Amsterdam,DE,+49-234-6870390,RIPE Network Coordination Centre (RIPE)
 130.255.78.232,Germany,Amsterdam,DE,+49-234-6870390,RIPE Network Coordination Centre (RIPE)
 130.89.149.57,The Netherlands,Amsterdam,NL,+31 53 489 2311,RIPE Network Coordination Centre (RIPE)
@@ -406,7 +403,6 @@
 134.119.3.2,DE,Amsterdam,DE,+49 89 55266 0,RIPE Network Coordination Centre (RIPE)
 134.102.200.101,Germany,Amsterdam,DE,+49 421 218 61341,RIPE Network Coordination Centre (RIPE)
 134.119.32.208,DE,Amsterdam,DE,+49 89 55266 0,RIPE Network Coordination Centre (RIPE)
-133.242.228.179,,,,,
 134.119.9.33,DE,Amsterdam,DE,+49 89 55266 0,RIPE Network Coordination Centre (RIPE)
 134.130.172.95,Germany,Amsterdam,DE,+49 241 80 29203,RIPE Network Coordination Centre (RIPE)
 134.130.181.212,Germany,Amsterdam,DE,+49 241 80 29203,RIPE Network Coordination Centre (RIPE)
@@ -415,7 +411,7 @@
 134.249.210.107,Kiev, Ukraine,Amsterdam,UA,,RIPE Network Coordination Centre (RIPE)
 134.249.231.207,Kiev, Ukraine,Amsterdam,UA,,RIPE Network Coordination Centre (RIPE)
 135.0.245.235,241 Whitehall Drive,Markham,CA,,CIK Telecom INC (CIKTE)
-134.255.234.55,DE-48165 M¸nster,Amsterdam,DE,+49 251 149 811 80,RIPE Network Coordination Centre (RIPE)
+134.255.234.55,DE-48165 MÔøΩnster,Amsterdam,DE,+49 251 149 811 80,RIPE Network Coordination Centre (RIPE)
 135.19.110.124,150 rue Beaubien Ouest,Montreal,CA,,Le Groupe Videotron Ltee (VLCA)
 134.3.11.27,Germany,Amsterdam,DE,,RIPE Network Coordination Centre (RIPE)
 134.255.247.113,Germany,Amsterdam,DE,+49 (0)9306 - 76499-0,RIPE Network Coordination Centre (RIPE)
@@ -582,12 +578,10 @@
 141.98.248.203,H-8800 Nagykanizsa Taborhely u. 4.,,HU,,
 142.161.141.12,333 Main Street,Winnipeg,CA,,MTS Inc. (MTSIN-1)
 142.118.34.75,290 Dorval Avenue,Montreal,CA,,Bell Canada (LINX)
-142.134.85.107,,,,,Bell Canada (LINX)
 142.118.85.249,160 Elgin Street,Ottawa,CA,,Bell Canada (LINX)
 142.255.75.167,6399 S. Fiddler's Green Circle,Greenwood Village,US,,Charter Communications Inc (CC-3517)
 142.4.209.31,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 142.44.133.83,Private Residence,KENNESAW,US,,OVH Hosting, Inc. (HO-2)
-142.44.243.133,,,,,OVH Hosting, Inc. (HO-2)
 142.44.243.241,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 142.44.184.90,2522 Chambers Road Suite 100,Tustin,US,,OVH Hosting, Inc. (HO-2)
 142.44.245.165,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
@@ -609,24 +603,18 @@
 141.255.166.142,Edif. Ocean Business Plaza 1404 Marbella Panama City,Amsterdam,CH,+41 75 414 2912,RIPE Network Coordination Centre (RIPE)
 141.255.166.150,Edif. Ocean Business Plaza 1404 Marbella Panama City,Amsterdam,CH,+41 75 414 2912,RIPE Network Coordination Centre (RIPE)
 143.106.60.86,Rambla Republica de Mexico 6125,Montevideo,BR,,Latin American and Caribbean IP address Regional Registry (LACNIC)
-144.217.13.141,,,,,OVH Hosting, Inc. (HO-2)
 143.106.73.35,Rambla Republica de Mexico 6125,Montevideo,UY,,Latin American and Caribbean IP address Regional Registry (LACNIC)
-144.217.15.164,,,,,OVH Hosting, Inc. (HO-2)
 144.202.91.112,14 Cliffwood Ave Suite 300,Matawan,US,,Choopa, LLC (CHOOP-1)
 144.202.49.171,2200 Busse Rd.,Elk Grove Village,US,,Vultr Holdings, LLC (VHL-56)
-144.217.164.104,,,,,OVH Hosting, Inc. (HO-2)
 142.112.185.175,1040 Dufferin St,Toronto,CA,,Bell Canada (LINX)
 141.255.166.189,Edif. Ocean Business Plaza 1404 Marbella Panama City,Amsterdam,CH,+41 75 414 2912,RIPE Network Coordination Centre (RIPE)
-144.217.166.19,,,,,OVH Hosting, Inc. (HO-2)
 144.217.165.133,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.165.223,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-144.217.166.26,,,,,OVH Hosting, Inc. (HO-2)
 144.172.153.165,150 rue Beaubien Ouest,Montreal,CA,,Le Groupe Videotron Ltee (VLCA)
 144.217.166.59,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.176.151,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.167.69,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.189.131,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-144.217.245.140,,,,,OVH Hosting, Inc. (HO-2)
 144.217.195.29,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.245.145,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.4.166,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
@@ -639,7 +627,6 @@
 144.217.85.34,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.95.12,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.60.239,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-144.217.65.215,,,,,OVH Hosting, Inc. (HO-2)
 144.217.7.154,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.217.7.33,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 144.76.107.124,GERMANY,Amsterdam,DE,+49 9831 5050,RIPE Network Coordination Centre (RIPE)
@@ -790,7 +777,6 @@
 149.56.25.84,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 149.34.23.153,Llacuna 22,Barcelona,ES,,PSINet, Inc. (PSI-1)
 151.196.118.239,22001 Loudoun County Pkwy,Ashburn,US,,MCI Communications Services, Inc. d/b/a Verizon Business (MCICS)
-149.56.98.216,,,,,OVH Hosting, Inc. (HO-2)
 149.56.185.56,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 151.236.10.29,http,Amsterdam,AT,+43 316 827500300,RIPE Network Coordination Centre (RIPE)
 149.56.141.138,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
@@ -803,7 +789,6 @@
 151.84.113.157,ITALY,,IT,+39023011.1,
 153.120.129.100,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
 153.126.128.94,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
-151.24.114.148,,,,,
 151.30.134.200,ITALY,,IT,+39023011.1,
 151.80.115.180,France,,FR,+33 9 74 53 13 23,
 151.236.221.44,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,Amsterdam,GB,+16093807504,RIPE Network Coordination Centre (RIPE)
@@ -812,15 +797,10 @@
 153.120.42.137,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
 151.64.45.226,ITALY,,IT,+39023011.1,
 153.92.126.234,see http,,AU,,
-153.202.194.39,,,,,
 154.127.60.92,United Kingdom,,ZA,tel,
-154.59.112.69,,,,,
 153.92.127.239,see http,,AU,,
 153.126.196.95,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
-154.35.175.225,,,,,
-154.5.62.64,,,,,
 155.138.147.219,45 Parliament St,Toronto,CA,,Vultr Holdings, LLC (VHL-176)
-153.214.201.67,,,,,
 154.59.112.46,2450 N Street NW,Washington,US,,PSINet, Inc. (PSI-2)
 155.0.16.127,Zambia,Ebene,ZM,tel,African Network Information Center (AFRINIC)
 155.98.5.5,102 S. 200 E., Suite 110,Salt Lake City,US,,University of Utah (UNIVER-15-Z)
@@ -856,14 +836,10 @@
 158.58.173.164,IT,Amsterdam,IT,+39 3484876015,RIPE Network Coordination Centre (RIPE)
 158.69.193.32,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.198.177,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-158.69.205.247,,,,,OVH Hosting, Inc. (HO-2)
 158.69.207.216,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.192.239,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.212.100,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-158.69.201.47,,,,,OVH Hosting, Inc. (HO-2)
-158.69.204.36,,,,,OVH Hosting, Inc. (HO-2)
 158.69.212.107,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-158.69.192.200,,,,,OVH Hosting, Inc. (HO-2)
 158.69.207.137,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.58.170.183,IT,Amsterdam,IT,+39 3484876015,RIPE Network Coordination Centre (RIPE)
 158.69.217.87,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
@@ -871,13 +847,11 @@
 158.69.205.92,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.222.218,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.212.99,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-158.69.37.14,,,,,OVH Hosting, Inc. (HO-2)
 158.69.16.124,Private Residence,Grandville,US,,OVH Hosting, Inc. (HO-2)
 158.69.92.127,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.218.78,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.212.106,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
 158.69.222.10,800-1801 McGill College,Montreal,CA,,OVH Hosting, Inc. (HO-2)
-158.69.212.109,,,,,OVH Hosting, Inc. (HO-2)
 159.203.22.51,10th Floor,New York,US,,DigitalOcean, LLC (DO-13)
 158.69.30.133,Private Residence,Austin,US,,OVH Hosting, Inc. (HO-2)
 159.203.36.14,10th Floor,New York,US,,DigitalOcean, LLC (DO-13)
@@ -1215,7 +1189,6 @@
 174.141.200.41,12450 Wayzata Blvd Suite 315,Minnetonka,US,,US Internet Corp (USIC)
 174.34.225.215,Suite A,Charlotte,US,,Carolina Internet, Ltd. (CARO)
 174.93.148.112,160 Elgin Street,Ottawa,CA,,Bell Canada (LINX)
-174.58.202.65,,,,,Comcast Cable Communications, LLC (CCCS)
 176.10.169.176,Sweden,,SE,,
 176.10.217.142,Sweden,,SE,,
 174.96.151.211,6399 S. Fiddler's Green Circle,Greenwood Village,US,,Charter Communications Inc (CC-3517)
@@ -1337,16 +1310,13 @@
 176.9.90.215,GERMANY,,DE,+49 9831 5050,
 176.99.4.143,house 3, Vassily Petushkov str., Moscow, Russia, 125476,,RU,+74955140573,
 176.9.85.142,GERMANY,,DE,+49 9831 5050,
-177.225.184.253,,,,,
 178.112.70.35,Austria,,AT,+43 5 0660 8888,
 178.128.12.66,United States of America,,US,+13478756044,
 177.42.130.66,,,BR,,
-177.133.178.98,,,,,
 177.83.232.168,,,BR,,
 178.128.239.129,United States of America,,CA,+13478756044,
 176.9.92.184,GERMANY,,DE,+49 9831 5050,
 178.128.52.46,United States of America,,SG,+13478756044,
-177.229.74.47,,,,,
 178.128.243.103,United States of America,,NL,+13478756044,
 178.128.247.50,United States of America,,NL,+13478756044,
 178.128.253.89,United States of America,,NL,+13478756044,
@@ -1531,34 +1501,25 @@
 178.79.165.21,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,,GB,+16093807504,
 178.79.159.147,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,,GB,+16093807504,
 178.79.177.148,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,,GB,+16093807504,
-178.79.163.169,,,,,
 178.79.182.63,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,,GB,+16093807504,
 178.8.250.85,Germany,,DE,+49 6196 523 0864,
 178.83.171.83,Netherlands,,CH,+31 20 7788200,
 178.79.173.147,329 E. Jimmie Leeds Road, Suite A, Galloway, NJ 08205, USA,,GB,+16093807504,
 178.82.241.4,Netherlands,,CH,+31 20 7788200,
 178.82.60.113,Netherlands,,CH,+31 20 7788200,
-179.181.46.126,,,,,
-179.43.158.154,,,,,
 179.43.158.7,,,PA,+41 43 5082295 [],
-179.43.146.230,,,,,
-179.43.158.176,,,,,
 178.83.105.197,Netherlands,,CH,+31 20 7788200,
 179.43.169.21,,,PA,+41 43 5082295 [],
-179.43.188.206,,,,,
 18.18.248.17,77 Massachusetts Avenue,Cambridge,US,,Massachusetts Institute of Technology (MIT-2)
 18.205.17.249,410 Terry Ave N.,Seattle,US,,Amazon Technologies Inc. (AT-88-Z)
 18.18.82.18,77 Massachusetts Avenue,Cambridge,US,,Massachusetts Institute of Technology (MIT-2)
 178.93.193.35,Ukraine, Kiev,,ua,+380 (44) 288-1072,
-179.43.156.214,,,,,
 18.130.184.181,410 Terry Ave N.,Seattle,US,,Amazon Technologies Inc. (AT-88-Z)
-179.48.248.17,,,,,
 179.98.242.43,,,BR,,
 18.49.5.37,77 Massachusetts Avenue,Cambridge,US,,Massachusetts Institute of Technology (MIT-2)
 18.85.192.253,77 Massachusetts Avenue,Cambridge,US,,Massachusetts Institute of Technology (MIT-2)
 18.223.16.147,410 Terry Ave N.,Seattle,US,,Amazon Technologies Inc. (AT-88-Z)
 18.223.41.243,410 Terry Ave N.,Seattle,US,,Amazon Technologies Inc. (AT-88-Z)
-179.48.251.188,,,,,
 180.13.235.235,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
 180.149.125.142,Head office of GemNet LLC, Gem Business Center, Peace Avenue 62, P.O.B-39, Bayangol district, 4th khoroo, Ulaanbaatar, Mongolia 16052,,MN,+976-70160055,
 180.150.226.99,5 Floor,,KR,+82-70-7600-5517,
@@ -1634,7 +1595,7 @@
 185.107.70.202,The Netherlands,,NL,+31 (0)206919299,
 185.107.71.41,The Netherlands,,NL,+31 (0)206919299,
 185.107.83.71,The Netherlands,,NL,+31 (0)206919299,
-185.11.146.95,Av. de Almeida Ribeiro 99, EdifÌcio Nam Wah Commercial 9∫, MO,,NL,+85352331422,
+185.11.146.95,Av. de Almeida Ribeiro 99, EdifÔøΩcio Nam Wah Commercial 9ÔøΩ, MO,,NL,+85352331422,
 185.112.146.138,Iceland,,IS,+354 546 1984,
 185.112.146.155,Iceland,,IS,+354 546 1984,
 185.107.47.171,The Netherlands,,NL,+31 (0)206919299,
@@ -1826,7 +1787,7 @@
 185.225.69.8,HUNGARY,,HU,+36702451572,
 185.220.102.8,Germany,,DE,+49-351-21296018,
 185.225.69.91,HUNGARY,,HU,+36702451572,
-185.224.112.246,Dobrocçovice 102, Prague-east, 25082,,CZ,+420739455350,
+185.224.112.246,DobrocÔøΩovice 102, Prague-east, 25082,,CZ,+420739455350,
 185.225.68.15,HUNGARY,,HU,+36702451572,
 185.227.82.56,MALAYSIA,,NL,,
 185.225.17.95,MivoCloud,,RO,+40372746283,
@@ -1914,7 +1875,7 @@
 185.61.149.173,Maskavas 240-3, Riga, LV-1063, Latvia,,LV,+371 66117171,
 185.62.80.83,Fiberstream 87 AG Neuheimstrasse 44 8852 Lachen,,ch,+41555240125,
 185.58.21.199,Bulgaria,,BG,+359 2 4911203,
-185.62.188.110,Av. de Almeida Ribeiro 99, EdifÌcio Nam Wah Commercial 9∫, MO,,NL,+85352331422,
+185.62.188.110,Av. de Almeida Ribeiro 99, EdifÔøΩcio Nam Wah Commercial 9ÔøΩ, MO,,NL,+85352331422,
 185.65.205.10,CiTYNET Telekom Ltd, EGS Business Park B2 Blok, Apt. No,,TR,+902129426384,
 185.63.253.130,Tinbazar, Suri, 731101, India,,NL,+9107384944677,
 185.62.136.118,2000 Hogback Rd Ste 6,,IS,+1 734 478 5556,
@@ -1954,7 +1915,6 @@
 185.82.217.71,Bulgaria,,BG,+359 2 4925555,
 185.86.151.168,Maskavas 240-3, Riga, LV-1063, Latvia,,LV,+371 66117171,
 185.86.151.21,Maskavas 240-3, Riga, LV-1063, Latvia,,LV,+371 66117171,
-185.86.150.58,,,,,
 185.86.77.23,Ukraine, Khmelnitskiy,,UA,+380 44 221 33 43,
 185.96.180.29,DK-2630 Taastrup,,DK,+4570890000,
 185.86.78.159,Ukraine, Khmelnitskiy,,UA,+380 44 221 33 43,
@@ -1978,7 +1938,6 @@
 188.118.217.235,2500 Baden,,AT,+43 699 17201087,
 188.119.151.108,P.O. Box 023588,,RO,+40 (21) 655-55-55,
 188.119.67.56,Russia,,RU,,
-187.181.28.210,,,,,
 188.116.42.3,Bieganskiego 10/22,,PL,+48 58 3075086,
 188.106.215.245,Germany,,DE,+49 6196 523 0864,
 188.120.231.245,Russian Federation,,RU,+7 (495) 663 73 72,
@@ -2066,7 +2025,7 @@
 188.226.148.15,United States of America,,NL,+13478756044,
 188.213.49.55,Republicii nr 51, Oradea,,RO,+40.735399244,
 188.226.152.210,United States of America,,NL,+13478756044,
-188.209.49.203,Av. de Almeida Ribeiro 99, EdifÌcio Nam Wah Commercial 9∫, MO,,NL,+85352331422,
+188.209.49.203,Av. de Almeida Ribeiro 99, EdifÔøΩcio Nam Wah Commercial 9ÔøΩ, MO,,NL,+85352331422,
 188.214.129.21,LITHUANIA,,LT,,
 188.214.132.49,LITHUANIA,,LT,,
 188.226.222.19,United States of America,,NL,+13478756044,
@@ -2105,50 +2064,39 @@
 188.40.63.57,GERMANY,,DE,+49 9831 5050,
 188.68.33.224,76185 Karlsruhe,,DE,+49721 75407550,
 188.68.45.72,76185 Karlsruhe,,DE,+49721 75407550,
-188.65.94.231,MarÌa Tubau, 8 28050 Madrid,,ES,+34911929415,
+188.65.94.231,MarÔøΩa Tubau, 8 28050 Madrid,,ES,+34911929415,
 188.68.32.129,76185 Karlsruhe,,DE,+49721 75407550,
 188.68.37.135,76185 Karlsruhe,,DE,+49721 75407550,
 188.68.38.54,76185 Karlsruhe,,DE,+49721 75407550,
 188.68.45.180,76185 Karlsruhe,,DE,+49721 75407550,
 188.98.152.18,Germany,,DE,+49 6196 523 0864,
-189.208.209.151,,,,,
 188.40.91.87,GERMANY,,DE,+49 9831 5050,
 188.82.129.46,Portugal,,PT,+351-215000000,
 189.69.199.10,,,BR,,
 189.84.21.44,,,BR,,
 188.98.70.213,Germany,,DE,+49 6196 523 0864,
 189.34.218.176,,,BR,,
-190.10.8.166,,,,,
 188.68.62.198,76185 Karlsruhe,,DE,+49721 75407550,
 188.68.46.164,76185 Karlsruhe,,DE,+49721 75407550,
 188.93.186.48,Norway,,NO,+4771565500,
-190.10.58.45,,,,,
 190.193.161.128,1425 - Buenos Aires -,,AR,+54 11 4968 [4975],
 190.10.8.68,54-1000 - San Jose -,,CR,+506 22870644 [644],
-190.2.144.104,,,,,
 190.107.155.184,001 - Tegucigalpa - Mo,,HN,+504 504 22054458 [4458],
 188.68.53.92,76185 Karlsruhe,,DE,+49721 75407550,
 190.113.169.107,5500 - Mendoza -,,AR,+54 261 4254320 [6619],
 190.10.8.152,54-1000 - San Jose -,,CR,+506 22870644 [644],
-190.153.46.148,,,,,
 190.2.133.33,2671CT - Naaldwijk -,,NL,+31 0174712117 [],
 190.216.2.136,1107 - Capital Federal - BA,,AR,+54 11 51706000 [],
 191.103.30.95,5300 - La Rioja - La Rioja,,AR,+54 3804769795 [0000],
 191.179.119.146,,,BR,,
 190.10.8.50,54-1000 - San Jose -,,CR,+506 22870644 [644],
-190.210.98.90,,,,,
-190.2.145.7,,,,,
-190.97.165.141,,,,,
 190.38.130.142,1060 - Caracas - MI,,VE,+58 2122095685 [0],
 191.252.196.236,,,BR,,
 191.114.97.193,8320215 - santiago - m,,CL,+56 2 6616815 [],
 192.110.160.146,3402 East University Drive,Phoenix,US,,Input Output Flood LLC (IOFL)
-190.247.217.113,,,,,
-190.30.173.185,,,,,
 192.124.250.83,Germany,Amsterdam,DE,+49 221 2767 140,RIPE Network Coordination Centre (RIPE)
 192.0.221.132,800 Richmond St.,Chatham,CA,,TekSavvy Solutions Inc. (TS-1)
 192.155.83.101,Suite A,Galloway,US,,Linode (LINOD)
-191.243.199.42,,,,,
 192.145.246.200,58 Johnson Street,Winona,US,,Hiawatha Broadband Communications, Inc (HBC-73)
 191.33.154.133,,,BR,,
 191.96.145.141,8320313 - Santiago - RM,,CL,+56 229382322 [0000],
@@ -2597,15 +2545,8 @@
 2.86.213.127,Greece,,GR,,
 2.243.147.130,DE,,DE,+498924420,
 2.60.17.161,Russia,,RU,+7 3812 241219,
-200.52.55.54,,,,,
 200.122.181.78,54-1000 - San Jose -,,CR,+506 22870644 [644],
-200.90.141.92,,,,,
-200.122.181.101,,,,,
-200.86.90.194,,,,,
-200.122.181.2,,,,,
-200.98.146.219,,,,,
 200.94.194.224,66215 - Garza Garcia - NL,,MX,+52 8181298207 [88207],
-200.98.137.240,,,,,
 200.98.140.110,,,BR,,
 200.98.161.148,,,BR,,
 200.98.136.76,,,BR,,
@@ -2680,7 +2621,7 @@
 2001:067c:06ec:0201:0145:0220:0000:0015,The Netherlands,,NL,+31 88 7873000,
 2001:067c:289c:0000:0000:0000:0000:0009,SE-103 59 STOCKHOLM,,SE,+460700178928,
 198.16.109.31,Hanauer Landstrasse 308,Frankfurt,DE,,FDCservers.net (FDCSE-12)
-2001:067c:2608:0000:0000:0000:0000:0001,7 Impasse RenÈ Char Logement 39 / 31600 LHERM FRANCE,,FR,+33972429604,
+2001:067c:2608:0000:0000:0000:0000:0001,7 Impasse RenÔøΩ Char Logement 39 / 31600 LHERM FRANCE,,FR,+33972429604,
 2001:067c:24e4:0010:0000:0000:0000:0020,Norway,,NO,+47 90294729,
 198.16.92.157,Haarlemmerstraatweg 135,Halfweg,NL,,FDCservers.net (FDCSE-21)
 2001:067c:289c:0000:0000:0000:0000:0025,SE-103 59 STOCKHOLM,,SE,+460700178928,
@@ -2849,7 +2790,6 @@
 2001:41d0:000a:266c:0000:0000:0000:0001,France,,FR,+33 9 74 53 13 23,
 2001:41d0:0203:1c74:0000:0000:0567:f3f2,France,,FR,+33 9 74 53 13 23,
 2001:41d0:0203:1c74:0000:0000:0911:c78a,France,,FR,+33 9 74 53 13 23,
-2001:41d0:0203:2d27:0000:0000:1aba:5fd0,,,,,
 2001:41d0:0203:1f0b:0000:0000:0000:0118,France,,FR,+33 9 74 53 13 23,
 2001:41d0:0302:2100:0000:0000:0000:6c8e,France,,FR,+33 9 74 53 13 23,
 2001:41d0:0052:0f00:0000:0000:0000:0413,France,,FR,+33 9 74 53 13 23,
@@ -2927,7 +2867,6 @@
 2001:4ba0:ffff:01ce:0000:0000:0000:0003,40472 Duesseldorf DE,,DE,+4921161708110,
 2003:000a:077f:9249:0ec4:7aff:fe6b:347f,Darmstadt, Germany,,DE,+49 180 2 33 1000,
 201.188.167.169,8320215 - santiago - m,,CL,+56 2 6616815 [],
-201.200.0.240,,,,,
 2001:4ba0:ffff:01ce:0000:0000:0000:0002,40472 Duesseldorf DE,,DE,+4921161708110,
 2003:00ca:5f39:a400:ba27:ebff:fe74:7dbf,Germany,,DE,+49 421 5155 4047,
 2002:ce3f:e590:0001:0001:0000:0000:0015,422 West Riverside, Suite 516,Spokane,US,,Cutting Edge Communications, Inc. (CET)
@@ -2939,7 +2878,7 @@
 2001:4c48:0002:840b:0000:0000:c0de:f001,Budapest, Hungary,,HU,,
 201.80.181.11,,,BR,,
 202.182.113.80,100 Matawan Rd, Matawan NJ 07747,,US,+1-973-849-0501,
-201.191.12.75,10032-100 - San JosÈ - cr,,CR,+506 20001123 [0000],
+201.191.12.75,10032-100 - San JosÔøΩ - cr,,CR,+506 20001123 [0000],
 202.87.31.32,Australia,,AU,+61-2-4353-3030,
 202.182.126.177,100 Matawan Rd, Matawan NJ 07747,,US,+1-973-849-0501,
 202.184.105.109,LOT 14, JALAN U1/26, SEKSYEN U1, HICOM GLENMARIE INDUSTRIAL PARK, SHAH ALAM SELANGOR 40150,,MY,+60-3-5032-6000,
@@ -2948,14 +2887,12 @@
 203.129.23.78,Morwell. VIC. 3840,,AU,+61-3-51650000,
 203.129.17.3,Morwell. VIC. 3840,,AU,+61-3-51650000,
 204.12.234.179,Suite 1000,Kansas City,US,,WholeSale Internet, Inc. (WHOLE-125)
-203.141.154.202,,,,,
 203.221.146.248,North Ryde NSW 2113,,AU,+61 2 9850 0800,
 204.12.225.70,201 E. 16th st,North Kansas City,US,,WholeSale Internet, Inc. (WHOLE-125)
 204.194.29.4,5000 Forbes Avenue,Pittsburgh,US,,Carnegie Mellon University (CARNEG-Z)
 203.186.69.98,15/F, 18 Kin Hong Street, Trans Asia Centre, Kwai Chung, Kln,,HK,+852-3999-3888,
 204.13.164.107,PO Box 4282,Seattle,US,,Riseup Networks (DEW)
 204.8.156.142,111 Cummington Mall,Boston,US,,Boston University (BOSU)
-202.239.38.249,,,,,
 204.85.191.8,PO Box 12889,Research Triangle Park,US,,North Carolina Research and Education Network (CNRT)
 204.85.191.9,PO Box 12889,Research Triangle Park,US,,North Carolina Research and Education Network (CNRT)
 205.185.114.92,1621 Central Ave,Cheyenne,US,,FranTech Solutions (SYNDI-5)
@@ -3057,13 +2994,9 @@
 209.250.229.210,United States,Amsterdam,GB,+1-973-849-0500,RIPE Network Coordination Centre (RIPE)
 209.51.188.48,760 Mission Court,Fremont,US,,Hurricane Electric LLC (HURC)
 209.95.51.11,517 W 100 N STE 225,Providence,US,,Hosting Services, Inc. (HOSTI-20)
-210.140.10.24,,,,,
-210.153.152.215,,,,,
-210.140.10.35,,,,,
 210.3.102.154,HONG KONG,,HK,+852-21229555,
 209.44.114.178,C.P. 118,Montreal,CA,,eStruxture Data Centers Inc. (EDC-83)
 210.185.126.157,North Ryde NSW 2113,,AU,+61 2 9850 0800,
-210.160.238.230,,,,,
 210.3.102.165,HONG KONG,,HK,+852-21229555,
 212.129.4.84,France,,FR,,
 209.58.178.217,18B Keong Saik Road, Singapore 089125,South Brisbane,SG,+6531587350,Asia Pacific Network Information Centre (APNIC)
@@ -3326,11 +3259,9 @@
 217.86.254.137,Darmstadt, Germany,,DE,+49 180 2 33 1000,
 217.87.24.186,Darmstadt, Germany,,DE,+49 180 2 33 1000,
 220.130.54.175,Taipei Taiwan,,TW,+886 2 2344 3007,
-219.117.252.228,,,,,
 220.235.48.251,Subiaco WA 6008,,AU,+61 8 9214 2222,
 220.233.28.71,North Sydney NSW 2060,,AU,+61 2 8030 1050,
 217.95.221.41,Darmstadt, Germany,,DE,+49 180 2 33 1000,
-218.219.125.27,,,,,
 220.135.161.179,Taipei Taiwan,,TW,+886 2 2344 3007,
 220.135.203.167,Taipei Taiwan,,TW,+886 2 2344 3007,
 220.245.31.197,North Ryde NSW 2113,,AU,+61 2 9850 0800,
@@ -3490,7 +3421,6 @@
 2600:3c02:0000:0000:f03c:91ff:fe4c:5613,Suite A,Galloway,US,,Linode (LINOD)
 2600:3c03:0000:0000:f03c:91ff:fec8:1e73,Suite A,Galloway,US,,Linode (LINOD)
 2600:3c02:0000:0000:f03c:91ff:fedf:a49f,Suite A,Galloway,US,,Linode (LINOD)
-2601:018a:c680:9888:ba27:ebff:fe60:7486,,,,,Comcast Cable Communications, LLC (CCCS)
 2600:3c03:0000:0000:f03c:91ff:fe4c:1fd0,Suite A,Galloway,US,,Linode (LINOD)
 2600:3c01:e000:0132:0010:0000:0000:0005,Suite A,Galloway,US,,Linode (LINOD)
 2600:3c03:0000:0000:f03c:91ff:fe70:0357,Suite A,Galloway,US,,Linode (LINOD)
@@ -3595,7 +3525,6 @@
 2607:f710:0060:0000:0000:008f:0000:0001,3418 Northern Blvd, Suite 516,Long Island City,US,,Data Room, Inc (DATAR-6)
 2607:f298:0005:101d:f816:3eff:fe4d:3e77,PMB #257,Brea,US,,New Dream Network, LLC (NDN)
 2620:0007:6001:0000:0000:0000:0000:0103,6732 Goodland Loop,San Angelo,US,,Quintex Alliance Consulting (QAC-4)
-2607:ff68:0100:0089:0000:0000:0000:0005,,,,,Limestone Networks, Inc. (LIMES-2)
 2607:f710:0060:0000:0000:00ba:0000:0001,3418 Northern Blvd, Suite 516,Long Island City,US,,Data Room, Inc (DATAR-6)
 2620:0007:6001:0000:0000:0000:0000:0106,6732 Goodland Loop,San Angelo,US,,Quintex Alliance Consulting (QAC-4)
 2620:0007:6001:0000:0000:0000:0000:0102,6732 Goodland Loop,San Angelo,US,,Quintex Alliance Consulting (QAC-4)
@@ -3718,7 +3647,6 @@
 2620:018c:0000:0000:0000:0000:0000:0212,815 1st Ave # 331,Seattle,US,,Emerald Onion (EO-95)
 27.133.128.120,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
 27.133.130.59,Chiyoda-ku, Tokyo 101-0047,Japan,,JP,+81-3-5297-2311,
-2804:0538:0000:0001:0000:0000:0000:0024,,,,,
 2a00:0c98:2030:a03e:0002:0000:0000:0a10,Germany,,DE,+49 69 2475 2860,
 2a00:1158:0003:0000:0000:0000:0000:01d4,DE,,DE,+49 89 55266 0,
 2a00:1158:0003:0000:0000:0000:0000:02ae,DE,,DE,+49 89 55266 0,
@@ -3815,12 +3743,12 @@
 2a01:04f8:00a0:80ec:0d00:0f00:beaf:0038,GERMANY,,DE,+49 9831 5050,
 2a01:03b8:1dea:0000:0000:0000:0000:0088,www.ownit.se,,SE,+46 (8) 525 073 00,
 2a01:04a0:0027:0000:0000:0000:f89f:30f1,D-93138 Lappersdorf,,DE,+4991131043200,
-2a01:03a0:0001:1900:0089:0233:0043:0074,DK-2300 K¯benhavn S,,DK,+45 70 26 23 00,
+2a01:03a0:0001:1900:0089:0233:0043:0074,DK-2300 KÔøΩbenhavn S,,DK,+45 70 26 23 00,
 2a01:04f8:00a0:6171:0000:00ff:fe00:0012,GERMANY,,DE,+49 9831 5050,
 2a01:04f8:010a:262d:0000:0000:0000:0009,GERMANY,,DE,+49 9831 5050,
 2a01:04f8:010b:3344:0106:0000:0000:0106,GERMANY,,DE,+49 9831 5050,
 2a01:04f8:0110:4421:ffff:0000:0000:0002,GERMANY,,DE,+49 9831 5050,
-2a01:03a0:0001:1900:0085:0235:0250:0088,DK-2300 K¯benhavn S,,DK,+45 70 26 23 00,
+2a01:03a0:0001:1900:0085:0235:0250:0088,DK-2300 KÔøΩbenhavn S,,DK,+45 70 26 23 00,
 2a01:04f8:00a0:83e2:0000:0000:0000:0002,GERMANY,,DE,+49 9831 5050,
 2a01:04f8:010a:4253:0003:0000:0000:0008,GERMANY,,DE,+49 9831 5050,
 2a01:04f8:0121:3431:4c84:c8a5:4c2d:c9bb,GERMANY,,DE,+49 9831 5050,
@@ -4133,7 +4061,6 @@
 2a06:1700:0000:0007:0000:0000:0000:0001,SEYCHELLES,,RO,+40734325073,
 2a06:1700:0001:0000:0000:0000:0000:0011,SEYCHELLES,,FI,+40734325073,
 2a05:7cc0:0000:0091:0211:0247:0071:0001,LT-10103, LITHUANIA,,LT,+370 671 74997,
-2a06:1700:0000:000b:0000:0000:44cb:00ed,,,,,
 2a06:1700:0000:000b:0000:0000:44cb:0079,SEYCHELLES,,RO,+40734325073,
 2a06:3000:0000:0000:0000:0000:0120:0004,RG1 4QD, UK,,GB,,
 2a06:1700:0000:001f:0000:0000:0000:0031,SEYCHELLES,,RO,+40734325073,
@@ -4405,13 +4332,11 @@
 40.115.158.160,One Microsoft Way,Redmond,US,,Microsoft Corporation (MSFT)
 38.91.101.180,2450 N Street NW,Washington,US,,PSINet, Inc. (PSI)
 38.130.218.59,2450 N Street NW,Washington,US,,PSINet, Inc. (PSI)
-41.215.240.118,,,,,
 45.114.130.4,#1-504 Lotte IT Cattle, 550-1, Gasandong Guencheongu , Seoul South Korea, Seoul Seoul,,KR,+821036090478,
 45.125.166.58,Suite 2512 Langham Place Office Tower, 8 Argyle Street, Mongkok, Kowloon,,HK,+852-81760930,
 37.59.51.217,France,,FR,+33 9 74 53 13 23,
 43.231.114.52,7A, building #22, 8th khoroo, Sukhbaatar district, Ulaanbaatar,,MN,+976-75755585,
 41.50.73.92,South Africa,,ZA,tel,
-41.77.136.114,,,,,
 41.215.241.146,Egypt,,EG,tel,
 43.252.37.14,47150 PUCHONG, SELANGOR,,MY,+60320584799,
 45.123.118.101,9F-1, No 11, Sanrong 15th Rd. Wuri Dist. 414. Taichung City,,TW,+886955324887,
@@ -4867,7 +4792,6 @@
 50.193.59.193,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 50.21.183.46,Suite 300,Chesterbrook,US,,1&1 Internet Inc. (11INT)
 50.238.252.26,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
-50.247.195.124,,,,,Comcast Cable Communications, LLC (CCCS)
 50.193.143.42,1 Unavailable Street,HALETHORPE,US,,Comcast Cable Communications, LLC (CCCS)
 50.116.56.48,Suite A,Galloway,US,,Linode (LINOD)
 50.30.192.159,601 Luther Street West,College Station,US,,PAVLOV MEDIA INC (PM-45)
@@ -5441,20 +5365,17 @@
 68.32.17.9,5th Floor,Cherry Hill,US,,Comcast Cable Communications, LLC (CCCS)
 68.34.126.30,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 68.148.246.91,630 - 3rd Ave. SW,Calgary,CA,,Shaw Communications Inc. (SHAWC)
-68.4.139.100,,,,,Cox Communications Inc. (CXA)
 68.44.83.185,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 68.61.195.58,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 68.52.63.97,5th Floor,Cherry Hill,US,,Comcast Cable Communications, LLC (CCCS)
 66.42.56.173,100 Matawan Rd, Matawan NJ 07747,South Brisbane,US,+1-973-849-0501,Asia Pacific Network Information Centre (APNIC)
 66.42.58.61,100 Matawan Rd, Matawan NJ 07747,South Brisbane,US,+1-973-849-0501,Asia Pacific Network Information Centre (APNIC)
-68.97.83.8,,,,,Cox Communications Inc. (CXA)
 66.42.224.235,209 W. Seventh St.,Cincinnati,US,,Fuse Internet Access (FIAI)
 69.125.249.229,111 new south RD,Hicksville,US,,Optimum Online (OPTO)
 69.133.58.128,6399 S. Fiddler's Green Circle,Greenwood Village,US,,Charter Communications Inc (CC-3517)
 69.138.251.81,5th Floor,Cherry Hill,US,,Comcast Cable Communications, LLC (CCCS)
 69.156.68.249,1401 Route du Moulin,Ancienne Lorette,CA,,Bell Canada (LINX)
 68.67.32.31,27, 28 avenue,Mandeville,CA,,Fibrenoire Inc. (FIBRE-1)
-69.162.107.5,,,,,Limestone Networks, Inc. (LIMES-2)
 69.156.87.202,160 Elgin Street,Ottawa,CA,,Bell Canada (LINX)
 69.159.157.213,160 Elgin Street,Ottawa,CA,,Bell Canada (LINX)
 69.163.35.222,13024 SE 156th Ave,Happy Valley,US,,DirectSpace Networks, LLC. (DIREC-104)
@@ -5571,7 +5492,6 @@
 73.201.16.196,1800 Bishops Gate Blvd,Mount Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 73.233.65.168,1800 Bishops Gate Blvd,Mount Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 73.222.185.174,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
-73.225.111.191,,,,,Comcast Cable Communications, LLC (CCCS)
 73.237.110.173,1800 Bishops Gate Blvd,Mount Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 73.3.50.228,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 73.71.143.243,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
@@ -5618,7 +5538,6 @@
 76.204.63.172,Attn,Redmond,US,,AT&T Corp. (AC-3280)
 76.184.118.22,6399 S. Fiddler's Green Circle,Greenwood Village,US,,Charter Communications Inc (CC-3517)
 76.69.64.204,183 Hunter St W,Peterborough,CA,,Bell Canada (LINX)
-76.21.156.2,,,,,Comcast Cable Communications, LLC (CCCS)
 76.80.54.221,711 FERNANDO ST,OJAI,US,,Charter Communications Inc (CC-3517)
 76.16.37.141,1800 Bishops Gate Blvd,Mt Laurel,US,,Comcast Cable Communications, LLC (CCCS)
 76.192.103.141,Attn,Redmond,US,,AT&T Corp. (AC-3280)
@@ -5682,7 +5601,6 @@
 77.56.189.84,Netherlands,,CH,+31 20 7788200,
 77.58.201.132,Netherlands,,CH,+31 20 7788200,
 77.55.215.148,Poland,,PL,+48 12 2978810,
-77.37.160.18,,,,,
 77.51.211.64,Russia,,RU,+7 495 6386331,
 77.64.211.253,D-10553 Berlin,,DE,,
 77.6.180.51,Telefonica Germany GmbH & Co. OHG,,DE,,
@@ -5849,7 +5767,6 @@
 79.143.186.17,81549 Muenchen,,DE,+49 89 21268372,
 79.161.166.224,Norway,,NO,+47 5190 8000,
 79.172.193.32,1131 Budapest, Hajdu koz 7.,,HU,+ 36 1 633 30 53,
-79.160.238.152,,,,,
 79.153.77.250,SPAIN,,ES,,
 79.172.18.18,620049, Komsomolskaya 37-209, Ekaterinburg, Russia,,RU,,
 79.172.204.36,HU,,HU,+3612960075,
@@ -5957,7 +5874,6 @@
 80.241.214.102,81549 Muenchen,,DE,+49 89 21268372,
 80.241.220.57,81549 Muenchen,,DE,+49 89 21268372,
 80.241.59.49,GERMANY,,DE,+49304050510,
-80.212.26.73,,,,,
 80.240.28.19,United States,,DE,+1-973-849-0500,
 80.240.216.253,Varshavskoe Road, 133,,RU,+7 (499) 940 0044,
 80.241.213.86,81549 Muenchen,,DE,+49 89 21268372,
@@ -6061,13 +5977,13 @@
 81.7.16.177,Germany,,DE,,
 81.7.16.182,Germany,,DE,,
 82.116.120.3,Germany,,DE,+49 211 302033 0,
-82.118.242.128,Sundabakki 23 355 ”lafsvÌk,,BG,,
+82.118.242.128,Sundabakki 23 355 ÔøΩlafsvÔøΩk,,BG,,
 81.7.11.33,Germany,,DE,,
 81.82.46.118,Belgium,,BE,,
 81.95.191.168,Ukraine (UA) 02068,,UA,,
 81.7.3.67,Germany,,DE,,
 82.119.13.195,D-10553 Berlin,,DE,,
-82.118.242.147,Sundabakki 23 355 ”lafsvÌk,,BG,,
+82.118.242.147,Sundabakki 23 355 ÔøΩlafsvÔøΩk,,BG,,
 82.124.207.41,FR,,FR,+33 1 58 88 50 00,
 82.141.39.114,DE,,DE,+49 208 8940250,
 81.95.52.68,S4 7WZ,,GB,+44 (0) 114 224 3390,
@@ -6104,7 +6020,7 @@
 82.202.193.94,Cvetochnaya 21,,RU,+78126778036,
 82.207.208.238,Germany,,DE,+49 (0) 231 399 0,
 82.209.54.74,Czech Republic,,CZ,+420 597578000,
-82.213.219.86,MarÌa Tubau, 8. 28050 Madrid,,ES,+3491192900,
+82.213.219.86,MarÔøΩa Tubau, 8. 28050 Madrid,,ES,+3491192900,
 82.217.245.7,The Netherlands,,NL,+31(0)88 717 0000,
 82.196.5.192,United States of America,,NL,+13478756044,
 82.202.221.37,190000, Russia, Saint-Petersburg, Tsvetochnaya 21A,,RU,+78126778036,
@@ -6270,7 +6186,7 @@
 84.240.60.234,Lithuania,,LT,+370 5 2664545,
 84.251.15.46,00620 Helsinki,,FI,+358 20401,
 84.31.172.51,The Netherlands,,NL,+31(0)88 717 0000,
-84.39.181.120,MarÌa Tubau, 8 28050 Madrid,,ES,+34911929415,
+84.39.181.120,MarÔøΩa Tubau, 8 28050 Madrid,,ES,+34911929415,
 84.19.178.79,Germany,,DE,+49 361 658530,
 84.248.194.33,00620 Helsinki,,FI,+358 20401,
 84.28.201.164,The Netherlands,,NL,+31(0)88 717 0000,
@@ -6540,7 +6456,7 @@
 88.174.80.195,75008 Paris,,FR,+33 1 73 50 20 00,
 88.130.83.102,Germany,,DE,+49 (0) 231 399 0,
 88.115.61.255,Elisa Oyj,,FI,,
-88.129.33.145,Umestan Fˆretagspark, hus 12,,SE,,
+88.129.33.145,Umestan FÔøΩretagspark, hus 12,,SE,,
 88.163.244.124,75008 Paris,,FR,+33 1 73 50 20 00,
 88.171.174.223,75008 Paris,,FR,+33 1 73 50 20 00,
 88.174.199.25,75008 Paris,,FR,+33 1 73 50 20 00,
@@ -6971,7 +6887,7 @@
 93.170.77.134,50th Street, Global Plaza Tower, 19th Floor, Suite H, Panama City, Panama,,NL,+18159814410,
 93.115.95.38,Voxility NOC,,RO,+40212074774,
 93.158.216.142,The Netherlands,,NL,+31 (0)629916679,
-93.176.178.204,MarÌa Tubau, 8 28050 Madrid,,ES,+34911929415,
+93.176.178.204,MarÔøΩa Tubau, 8 28050 Madrid,,ES,+34911929415,
 93.16.51.43,France,,FR,+33 1 70 18 52 00,
 93.170.77.249,50th Street, Global Plaza Tower, 19th Floor, Suite H, Panama City, Panama,,NL,+18159814410,
 93.180.156.84,DE,,DE,+49 89 55266 0,
@@ -7100,7 +7016,7 @@
 94.16.123.169,76185 Karlsruhe,,DE,+49721 75407550,
 94.218.212.208,Germany,,DE,+49 6196 523 0864,
 94.218.66.158,Germany,,DE,+49 6196 523 0864,
-94.199.213.135,Buchenring 1 , 38154 Kˆnigslutter am Elm,,DE,+49-5353-9779999,
+94.199.213.135,Buchenring 1 , 38154 KÔøΩnigslutter am Elm,,DE,+49-5353-9779999,
 94.168.35.70,Netherlands,,NL,+31 (0)6 51 86 87 54,
 94.16.123.67,76185 Karlsruhe,,DE,+49721 75407550,
 94.199.214.229,D-97295 Waldbrunn,,de,+49 (0)9306 - 76499-0,
@@ -7128,7 +7044,6 @@
 94.23.78.159,Portugal,,PT,,
 94.242.58.2,Russian Federation,,RU,+7 812 3136313,
 94.242.62.144,Russian Federation,,RU,+7 812 3136313,
-94.244.35.222,,,,,
 94.50.132.34,Russian Federation,,RU,,
 94.23.89.90,France,,PL,+33 9 74 53 13 23,
 94.32.66.15,Sardinia - Italy,,IT,+39 070 46011,
@@ -7156,14 +7071,13 @@
 95.143.193.125,SWEDEN,,SE,+46 650402000,
 95.141.83.146,Kokstaddalen 23,,NO,+47 55 10 97 80,
 95.143.172.188,GERMANY,,DE,+49 69 95411 0,
-95.153.31.26,Estonia, P‰rnumaa,Tori vald, 86811,,EE,+37258501736,
+95.153.31.26,Estonia, PÔøΩrnumaa,Tori vald, 86811,,EE,+37258501736,
 95.143.172.227,GERMANY,,DE,+49 69 95411 0,
-95.153.31.8,Estonia, P‰rnumaa,Tori vald, 86811,,EE,+37258501736,
+95.153.31.8,Estonia, PÔøΩrnumaa,Tori vald, 86811,,EE,+37258501736,
 95.115.58.87,Telefonica Germany GmbH & Co. OHG,,DE,,
 95.130.9.90,35770 Vern sur Seiche,,FR,+33299627832,
 95.143.172.214,GERMANY,,DE,+49 69 95411 0,
 95.154.194.110,SL6 7FW,,GB,+44 (0)1753 471 040,
-95.154.24.73,,,,,
 95.16.33.168,Madrid, Spain,,ES,+34 91 183 9000,
 95.165.143.112,Khachaturyana 5,,RU,,
 95.154.221.121,SL6 7FW,,GB,+44 (0)1753 471 040,
